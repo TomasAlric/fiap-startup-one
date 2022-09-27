@@ -5,7 +5,7 @@
    <h3> MVP do Startup one para uma HealthTech: </h3>
   
   
-  <img height="400px"  align="center" src="https://i.imgur.com/0vJ5wnr.png">
+  <img height="350px"  align="center" src="https://i.imgur.com/0vJ5wnr.png">
   
   <h4>Integrantes:
   
